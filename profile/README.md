@@ -6,6 +6,7 @@ At Groq, we’ve developed a new and innovative technology, which is now recogni
 
 * [GroqFlow](https://github.com/groq/groqflow): Our easiest way to GroqIt your workload.
 * [GroqAPI](https://github.com/groq/GroqAPI): For your customized workloads. 
+* [MLAgility](https://github.com/groq/mlagility): Benchmark 1000s of models on CPU, GPU, and Groq.
 
 For more information about Groq, check out our website at [groq.com](https://groq.com).
 For support or access to all of our documentation and software, register on our customer portal at https://support.groq.com.
